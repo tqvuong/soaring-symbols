@@ -3083,6 +3083,28 @@
         "slug": "vueling"
     },
     {
+        "name": "West Air",
+        "iata": "PN",
+        "icao": "CHB",
+        "country": "CN",
+        "website": "https://www.westair.cn",
+        "vectorized": true,
+        "branding": {
+            "primary_color": "#602a7a",
+            "colors": {
+                "icon": [
+                    "#602a7a",
+                    "#d8222a"
+                ],
+                "logo": [
+                    "#602a7a",
+                    "#d8222a"
+                ]
+            }
+        },
+        "slug": "west-air"
+    },
+    {
         "name": "WestJet",
         "iata": "WS",
         "icao": "WJA",
