@@ -121,6 +121,7 @@ This file provides an overview of the airlines included in the Soaring Symbols p
 | SAS Connect | IE | SL | SZS |  | ![#000099](https://place-hold.it/10x10/000099/000099.png) |  | ✅ |  |
 | [Scoot](https://www.flyscoot.com) | SG | TR | TGW | Value Alliance | ![#ffe900](https://place-hold.it/10x10/ffe900/ffe900.png) |  | ☑️ |  |
 | [Shandong Airlines](https://www.sda.cn) | CN | SC | CDG |  | ![#1e406c](https://place-hold.it/10x10/1e406c/1e406c.png) | ✅ | ✅ |  |
+| [Shenzhen Airlines](https://www.shenzhenair.com) | CN | ZH | CSZ | Star Alliance | ![#cc0100](https://place-hold.it/10x10/cc0100/cc0100.png) | ✅ | ✅ |  |
 | [Sichuan Airlines](https://www.sichuanair.com) | CN | 3U | CSC |  | ![#d7000f](https://place-hold.it/10x10/d7000f/d7000f.png) | ✅ | ✅ |  |
 | [Singapore Airlines](https://www.singaporeair.com) 🇸🇬 | SG | SQ | SIA | Star Alliance | ![#232f67](https://place-hold.it/10x10/232f67/232f67.png) | ✅ | ✅ |  |
 | [Southwest Airlines](https://www.southwest.com) | US | WN | SWA |  | ![#304cb2](https://place-hold.it/10x10/304cb2/304cb2.png) | ✅ | ☑️ |  |
