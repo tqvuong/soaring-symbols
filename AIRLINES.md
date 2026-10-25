@@ -44,6 +44,7 @@ This file provides an overview of the airlines included in the Soaring Symbols p
 | [Azul](https://www.voeazul.com.br) | BR | AD | AZU |  | ![#005baa](https://place-hold.it/10x10/005baa/005baa.png) | ☑️ | ☑️ |  |
 | [Bamboo Airways](https://www.bambooairways.com) | VN | QH | BAV |  | ![#64ae53](https://place-hold.it/10x10/64ae53/64ae53.png) | ☑️ | ☑️ |  |
 | [Bangkok Airways](https://www.bangkokair.com) | TH | PG | BKP |  | ![#000f8f](https://place-hold.it/10x10/000f8f/000f8f.png) | ✅ | ✅ |  |
+| [Bemidji Aviation Services](https://bemidjiaviation.com) | US | CH | BMJ |  | ![#192858](https://place-hold.it/10x10/192858/192858.png) | ✅ | ✅ |  |
 | [British Airways](https://www.britishairways.com) 🇬🇧 | GB | BA | BAW | oneworld | ![#2e5c99](https://place-hold.it/10x10/2e5c99/2e5c99.png) | ✅ | ✅ |  |
 | [Brussels Airlines](https://www.brusselsairlines.com) 🇧🇪 | BE | SN | BEL | Star Alliance | ![#051446](https://place-hold.it/10x10/051446/051446.png) | ✅ | ✅ |  |
 | [Cathay Pacific](https://www.cathaypacific.com) 🇭🇰 | HK | CX | CPA | oneworld | ![#005d63](https://place-hold.it/10x10/005d63/005d63.png) | ✅ | ✅ |  |
