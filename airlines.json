@@ -968,6 +968,28 @@
         "slug": "batik-air-malaysia"
     },
     {
+        "name": "Bemidji Aviation Services",
+        "iata": "CH",
+        "icao": "BMJ",
+        "country": "US",
+        "website": "https://bemidjiaviation.com",
+        "vectorized": true,
+        "branding": {
+            "primary_color": "#192858",
+            "colors": {
+                "icon": [
+                    "#9fa2a2",
+                    "#192858"
+                ],
+                "logo": [
+                    "#9fa2a2",
+                    "#192858"
+                ]
+            }
+        },
+        "slug": "bemidji-aviation-services"
+    },
+    {
         "name": "British Airways",
         "iata": "BA",
         "icao": "BAW",
